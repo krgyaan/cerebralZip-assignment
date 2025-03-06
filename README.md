@@ -1,6 +1,6 @@
 # Dashboard Application
 
-![Dashboard Preview](./docs/dashboard-preview.png)
+![Dashboard Preview](https://github.com/user-attachments/assets/43d49274-3524-475c-85fc-4381b0a49dfd)
 
 A modern dashboard application built with React, TypeScript, and Express.js that visualizes business metrics and analytics.
 
@@ -36,5 +36,4 @@ A modern dashboard application built with React, TypeScript, and Express.js that
 ### Installation
 
 1. Clone the repository
-2. Add your dashboard preview image to `docs/dashboard-preview.png`
 
